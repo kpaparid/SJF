@@ -1,0 +1,4 @@
+Non Preemptive: 
+Average Waiting Time: 11.307693 Total Waiting Time: 147.0 Maximum Length of Ready Processes List: 6 Average Response Time: 11.307693 Average Turnaround Time: 15.846154
+Preemptive: 
+Average Waiting Time: 11.0 Total Waiting Time: 143.0 Maximum Length of Ready Processes List: 6 Average Response Time: 10.923077 Average Turnaround Time: 15.538462
